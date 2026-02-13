@@ -3,7 +3,7 @@
 I’m a **Unity Game Developer** currently living in Finland.  
 I enjoy coding and creating interesting, interactive games and experiences.
 
-You can check out all of my projects here: **[Your GitHub Projects Link]**
+You can check out all of my projects here: **https://hungnguyen115.github.io/portfolio/**
 
 ---
 
