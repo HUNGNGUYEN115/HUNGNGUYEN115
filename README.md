@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hi, I’m Nguyen Tien Hung
 
-<!--
-**HUNGNGUYEN115/HUNGNGUYEN115** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a **Unity Game Developer** currently living in Finland.  
+I enjoy coding and creating interesting, interactive games and experiences.
 
-Here are some ideas to get you started:
+You can check out all of my projects here: **[Your GitHub Projects Link]**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## Skills & Technologies
+
+### Programming Languages
+C#, Python, C++, SQL, MongoDB, HTML
+
+### Tools & Frameworks
+Unity, Unreal Engine, GitHub, Visual Studio, Figma, GitHub Pages
+
+---
+
+## Interests
+- K-pop Music
+- Anime
+- Food & Cooking
+
+---
+
+## Current Focus
+- Game development with Unity
+- UI/UX systems in games
